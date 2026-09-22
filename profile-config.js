@@ -5,8 +5,8 @@
 
 const profileConfig = {
   // Personal & Hero Info
-  name: "Alex Morgan",
-  greeting: "Hello, world! I'm",
+  name: "Mark Louie G. Contrata",
+  greeting: "Hello, world! I'm Mark Louie G. Contrata",
   roles: [
     "Full-Stack Developer",
     "Open Source Enthusiast",
@@ -14,8 +14,8 @@ const profileConfig = {
     "Problem Solver"
   ],
   bio: "Passionate software engineer focused on building clean, accessible, and high-performance digital experiences. Constantly exploring modern web technologies, crafting open-source tools, and turning complex ideas into elegant solutions.",
-  avatar: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=500&q=80", // Replace with your image path or GitHub avatar URL: https://github.com/<username>.png
-  location: "San Francisco, CA (or Remote)",
+  avatar: "https://github.com/mlcontrata/mlcontrata.github.io/blob/main/728195983_27445969838420427_3735305335303556389_n.jpg", // Replace with your image path or GitHub avatar URL: https://github.com/<username>.png
+  location: "Esperanza, Sultan Kudarat Philippines",
   status: "🟢 Available for new opportunities",
   resumeUrl: "#", // Add link to your PDF resume (e.g., "assets/resume.pdf" or Google Drive)
 
