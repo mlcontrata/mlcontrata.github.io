@@ -6,7 +6,7 @@
 const profileConfig = {
   // Personal & Hero Info
   name: "Mark Louie G. Contrata",
-  greeting: "Hello, world! I'm Mark Louie G. Contrata",
+  greeting: "Hello, world! I'm",
   roles: [
     "Full-Stack Developer",
     "Open Source Enthusiast",
